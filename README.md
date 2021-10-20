@@ -1,4 +1,4 @@
-### Hi, I’m Eddie - you can check my presentation [here][website] 👋
+### Hi, I’m Eddie - you can check my online portfolio [here][website] 👋
 
 ## I'm a recent college grad in Mechanical Engineering with a passion for coding
 - 👀 I’m interested in Web/GUI development
@@ -7,7 +7,7 @@
 
 ### Connect with me
 
-[<img align="left" alt="Eddie Mata | Github" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][website]
+[<img align="left" alt="Eddie Mata | Portfolio" width="22px" src="https://eddiemataewy.github.io/icon.png">][website]
 [<img align="left" alt="Eddie Mata | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
@@ -43,5 +43,5 @@
 EddieMataEwy/EddieMataEwy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[website]: https://github.com/EddieMataEwy/
+[website]: https://eddiemataewy.github.io/
 [linkedin]: https://www.linkedin.com/in/eduardo-mata-ewy-b7a7b6221/
