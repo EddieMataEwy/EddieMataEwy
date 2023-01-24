@@ -36,7 +36,6 @@
 
 <img align="left" alt="Eddie's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EddieMataEwy&show_icons=true&hide_border=true" />
 <br />
-<img align="left" alt="Eddie's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddieMataEwy&hide=css, scss,html" />
 
 
 <!---
