@@ -32,12 +32,6 @@
 <br />
 
 
-<summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="Eddie's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EddieMataEwy&show_icons=true&hide_border=true" />
-<br />
-
-
 <!---
 EddieMataEwy/EddieMataEwy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
